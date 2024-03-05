@@ -1,8 +1,10 @@
 # Website Link
 link- https://consistencyfitnesstracker1.pages.dev/
 
-#Demo
+# Demo
 ![consistency](https://github.com/rajapriyanshu2002/Consistency-FitnessTracker/assets/125688738/d8ec9196-c730-41af-b228-38c27184a276)
+
+![consistency1](https://github.com/rajapriyanshu2002/Consistency-FitnessTracker/assets/125688738/b4298c4e-f9ab-4416-8cc4-d40d42eb047f)
 
 ## Available Scripts
 
